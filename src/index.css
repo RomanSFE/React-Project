@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+/* My own code start */
+.prp h2 {
+  color: blue;
+}
+.secondd {
+  width: 625px;
+  height: 100px;
+  margin-left: 27%;
+  background-color: yellow;
+}
+.secondd h2 {
+  color: #333;
+  padding: 5px 20px 0px 20px;
+}
+.secondd h1 {
+  background-color: #f90956eb;
+  color: #fff;
+}
+.secondd span {
+  width: 25px;
+  height: 9px;
+  background-color: #c3c330;
+  color: #000;
+  padding: 1px 13px;
+}
+
+/* My own code End */
