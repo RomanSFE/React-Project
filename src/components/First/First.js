@@ -7,7 +7,7 @@ class First extends Component{
                 <h1> My First React Component</h1>
                 <div className="prp"><h2>{ this.props.myprops }</h2></div>
                 <p>Some text and</p>
-                <a href="https://google.com" target="_blank">Google</a>
+                <a href="https://google.com">Google</a>
             </div>
         )
     }
