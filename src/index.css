@@ -39,4 +39,22 @@ code {
   padding: 1px 13px;
 }
 
+/* form component */
+.form-first{
+  margin-top: 200px;
+  margin-bottom: 150px;
+  }
+  /* form */
+.form-group {
+  width: 500px;
+  margin-left: 32%;
+}
+.form-group label {
+  display: block;
+}
+.form-check input {
+  margin-left: 36px;
+}
+
+
 /* My own code End */
