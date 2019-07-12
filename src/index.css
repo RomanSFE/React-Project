@@ -55,6 +55,12 @@ code {
 .form-check input {
   margin-left: 36px;
 }
+/* Nav Menu */
+nav a {
+  padding: 10px;
+  font-size: 20px;
+  color: #1b1d05;
+}
 
 
 /* My own code End */
